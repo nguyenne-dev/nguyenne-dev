@@ -7,7 +7,7 @@
     "name": "nguyenne",
     "email": "nguyenne.200507@gmail.com"
   },
-  "repository": "nguyenne-dev/nguyenne-blog",
+  "repository": "nguyenne-dev/nguyenne.github.io",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
