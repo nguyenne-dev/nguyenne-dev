@@ -1,0 +1,20 @@
+{
+  "name": "nguyenne-blog",
+  "version": "0.0.1",
+  "description": "A blog made by @nguyenne to share his feeling :&#39;)",
+  "main": "index.js",
+  "authors": {
+    "name": "nguyenne",
+    "email": "nguyenne.200507@gmail.com"
+  },
+  "repository": "nguyenne-dev/nguyenne-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vuepress-theme-blog-vuetify": "^1.6.2"
+  }
+}
